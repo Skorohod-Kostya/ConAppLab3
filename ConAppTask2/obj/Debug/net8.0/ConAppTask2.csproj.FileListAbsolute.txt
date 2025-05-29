@@ -1,0 +1,14 @@
+D:\CMOOP\ConAppLab3\ConAppTask2\bin\Debug\net8.0\ConAppTask2.exe
+D:\CMOOP\ConAppLab3\ConAppTask2\bin\Debug\net8.0\ConAppTask2.deps.json
+D:\CMOOP\ConAppLab3\ConAppTask2\bin\Debug\net8.0\ConAppTask2.runtimeconfig.json
+D:\CMOOP\ConAppLab3\ConAppTask2\bin\Debug\net8.0\ConAppTask2.dll
+D:\CMOOP\ConAppLab3\ConAppTask2\bin\Debug\net8.0\ConAppTask2.pdb
+D:\CMOOP\ConAppLab3\ConAppTask2\obj\Debug\net8.0\ConAppTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMOOP\ConAppLab3\ConAppTask2\obj\Debug\net8.0\ConAppTask2.AssemblyInfoInputs.cache
+D:\CMOOP\ConAppLab3\ConAppTask2\obj\Debug\net8.0\ConAppTask2.AssemblyInfo.cs
+D:\CMOOP\ConAppLab3\ConAppTask2\obj\Debug\net8.0\ConAppTask2.csproj.CoreCompileInputs.cache
+D:\CMOOP\ConAppLab3\ConAppTask2\obj\Debug\net8.0\ConAppTask2.dll
+D:\CMOOP\ConAppLab3\ConAppTask2\obj\Debug\net8.0\refint\ConAppTask2.dll
+D:\CMOOP\ConAppLab3\ConAppTask2\obj\Debug\net8.0\ConAppTask2.pdb
+D:\CMOOP\ConAppLab3\ConAppTask2\obj\Debug\net8.0\ConAppTask2.genruntimeconfig.cache
+D:\CMOOP\ConAppLab3\ConAppTask2\obj\Debug\net8.0\ref\ConAppTask2.dll
